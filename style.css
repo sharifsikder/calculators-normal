@@ -5,9 +5,13 @@
     margin:0 auto;
     margin-top:50px;
     padding: 10px;
-    border: 1px solid #777;
+    border: 2px solid rgba(113, 116, 111, 0.623);
 
 
+}
+.color{
+
+    color:gray;
 }
 .main-bar{
     margin-bottom: 20px;
@@ -29,4 +33,25 @@
 #inp{
     font-size: 23px;
     font-weight: bold;
+}
+.buttons{
+
+    background-color:#07a314ec !important;
+    border: 0;
+    color:black
+}
+.buttons:hover{
+
+    border:0;
+}
+.bttons{
+
+    background-color: #DB1204 !important;
+    color:#fff;
+}
+
+.btn-warning{
+
+    background-color: #F4009A;
+    color:#fff;
 }
