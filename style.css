@@ -1,5 +1,5 @@
 .calculator{
-    height: 400px;
+    height: 100%;
     width: 287px;
     background-color: #e8e8e8;
     margin:0 auto;
@@ -24,6 +24,7 @@
 .main-bar{
     margin-bottom: 20px;
     text-align: right;
+    width: 100%;
 }
 .calculator-button{
     font-size: 20px;
