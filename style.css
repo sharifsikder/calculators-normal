@@ -5,9 +5,17 @@
     margin:0 auto;
     margin-top:50px;
     padding: 10px;
-    border: 5px solid rgba(113, 116, 111, 0.623);
+    border: 3px solid rgba(113, 116, 111, 0.623);
 
 
+}
+.cal{
+
+    text-align: center;
+    background-color: #0f1f38;
+    color:rgb(7, 250, 250);
+    padding: 20px;
+    font-size: 50px;
 }
 .color{
 
